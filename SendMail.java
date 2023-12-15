@@ -38,7 +38,7 @@ public class SendMail extends HttpServlet {
 		String msg = request.getParameter("msg");
 		String gmail = "honda.honnali@gmail.com";
 		String from = "suhasme106@gmail.com";
-		String password = "vyengforcrbwhkjm";
+		String password = "9844811431";
 
 		Properties theProperties = new Properties();
 
