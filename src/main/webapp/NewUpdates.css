@@ -1,0 +1,189 @@
+body{
+  background-color: white;
+}
+
+
+
+.info{
+  padding-top: 30px;
+}.info h{
+    font-size: large;
+    color: red;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.info p{
+  padding-left: 50px;
+}
+.info a{
+
+text-decoration: none;
+}
+.info a:hover{
+
+  color:salmon
+}
+.info marquee{
+  color:slategrey
+}
+.info marquee i{
+  color:red;
+}
+.info marquee:hover{
+cursor: pointer;
+}
+.info #i0{
+  padding-left: 500px;
+}
+.cb200{
+  float:left;
+  width: 250px;
+  height: 300px;
+  border: 0px solid purple;
+  padding: 50px;
+  margin: 10px;
+  margin-left: 60px;
+}
+.cb200 #i1,#i2{
+  width: 230px;
+  height: 150px;
+  transition:transform 0.25s ease;
+}
+.cb200 img:hover {
+  -webkit-transform:scale(0.5); /* or some other value */
+  transform:scale(2.0);
+  cursor: pointer;
+  
+}
+  .cb200 h1{
+    color: chocolate;
+    font-size: medium;
+    text-align: center;
+  }
+  .sp160{
+    float:left;
+    width: 250px;
+    height: 300px;
+    border: 0px solid purple;
+    padding: 50px;
+    margin: 10px;
+    margin-left: 20px;
+  }
+  .sp160 #i3,#i4{
+    width: 210px;
+    height: 140px;
+    padding-top: 10px;
+  }
+  .sp160 h1{
+    color: chocolate;
+    font-size: medium;
+    text-align:center;
+    
+  }
+  .sp160 img:hover {
+    -webkit-transform:scale(0.5); /* or some other value */
+    transform:scale(2.0);
+    cursor: pointer;
+    
+  }
+  .sp1601{
+    float:left;
+    width: 250px;
+    height: 300px;
+    border: 0px solid purple;
+    padding: 50px;
+    margin: 10px;
+    margin-left: 1px;
+  }
+  .sp1601 #i5,#i6{
+    width: 210px;
+    height: 140px;
+    padding-top: 10px;
+  }
+  .sp1601 h1{
+    color: chocolate;
+    font-size: medium;
+    text-align: center;
+  }
+  .sp1601 img:hover {
+    -webkit-transform:scale(0.5); /* or some other value */
+    transform:scale(2.0);
+    cursor: pointer;
+    
+  }
+  .Hnet{
+    float:left;
+    width: 250px;
+    height: 300px;
+    border: 0px solid purple;
+    padding: 50px;
+    margin: 10px;
+    margin-left: 60px;
+  }
+  .Hnet #i7,#i8{
+    width: 230px;
+    height: 150px;
+    transition:transform 0.25s ease;
+  }
+  .Hnet img:hover {
+    -webkit-transform:scale(0.5); /* or some other value */
+    transform:scale(2.0);
+    cursor: pointer;
+   
+  }
+    .Hnet h1{
+      color: chocolate;
+      font-size: medium;
+      text-align: center;
+    }
+    .Hnet1{
+      float:left;
+      width: 250px;
+      height: 300px;
+      border: 0px solid purple;
+      padding: 50px;
+      margin: 10px;
+      margin-left: 20px;
+    }
+    .Hnet1 #i9,#i10{
+      width: 230px;
+      height: 150px;
+      transition:transform 0.25s ease;
+    }
+    .Hnet1 img:hover {
+      -webkit-transform:scale(0.5); /* or some other value */
+      transform:scale(2.0);
+      cursor: pointer;
+     
+    }
+      .Hnet1 h1{
+        color: chocolate;
+        font-size: medium;
+        text-align: center;
+      }
+      .dio{
+        float:left;
+        width: 250px;
+        height: 300px;
+        border: 0px solid purple;
+        padding: 50px;
+        margin: 10px;
+        margin-left: 20px;
+      }
+      .dio #i11,#i12{
+        width: 260px;
+        height: 150px;
+        transition:transform 0.25s ease;
+        padding-left: -1px;
+      }
+      .dio img:hover {
+        -webkit-transform:scale(0.5); /* or some other value */
+        transform:scale(2.0);
+        cursor: pointer;
+        
+      }
+        .dio h1{
+          color: chocolate;
+          font-size: medium;
+          text-align: center;
+        }
